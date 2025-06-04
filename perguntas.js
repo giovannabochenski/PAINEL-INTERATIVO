@@ -1,23 +1,23 @@
 criaCartao(
-    'Matue',
-    'Qual foi o ultimo album do matue',
-    '333'
+    'cutie',
+    'Which animal says "meow"?',
+    'cats'
 )
 
 criaCartao(
-    'Matue',
-    'Quem é Matue',
-    'Matuê é um rapper e cantor brasileiro, bastante conhecido na cena do trap e rap nacional'
+    'cutie',
+    'What color is Minnie Mouse's dress?',
+    'Red with white polka dots'
 )
 
 criaCartao(
-    'Tue',
-    'Qual a melhor musica do matue',
-    'Estou em dúvida'
+    'cutie',
+    'What sweet treat is made of chocolate and shaped like a bunny during Easter?',
+    ' Easter egg '
 )
 
 criaCartao(
-    '30',
-    'Oque é  a 30',
-    'A 30 é um dos álbuns mais conhecidos de Matuê, lançado em 2020💜💜💜'
+    'cutie',
+    'Who is the famous bear that loves honey?',
+    'Winnie-the-Pooh'
 )
