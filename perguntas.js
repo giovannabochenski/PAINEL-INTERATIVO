@@ -1,19 +1,19 @@
 criaCartao(
     'cutie',
-    'Which animal says "meow"?',
+    'Which animal says meow?',
     'cats'
 )
 
 criaCartao(
     'cutie',
-    'What color is Minnie Mouse's dress?',
+    'What color is Minnie Mouse dress?',
     'Red with white polka dots'
 )
 
 criaCartao(
     'cutie',
     'What sweet treat is made of chocolate and shaped like a bunny during Easter?',
-    ' Easter egg '
+    'Easter egg'
 )
 
 criaCartao(
